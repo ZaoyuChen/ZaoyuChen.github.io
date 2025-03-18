@@ -21,6 +21,6 @@ Previously, during my bachelor's studies, I worked on photonic spin-orbit coupli
 # Preprint
 * SolBench: A Dataset and Benchmark for Evaluating Functional Correctness in Solidity Code Completion and Repair.    
   **Zaoyu Chen**, Haoran Qin, Nuo Chen, Xiangyu Zhao, Lei Xue, Xiapu Luo, Xiao-Ming Wu
-  [[arXiv](https://arxiv.org/abs/2503.01098)]
+  [[arXiv 2503.01098](https://arxiv.org/abs/2503.01098)]
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=6uZ_jKmPU_WcDuWCQhiBvIGUYhGQZc0xI2v3X2EdYEw&co=74b4e2&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
