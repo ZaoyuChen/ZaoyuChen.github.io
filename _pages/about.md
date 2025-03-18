@@ -48,9 +48,17 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
-<video width="120" height="120" controls autoplay loop muted>
-  <source src="{{ 'videos/miaomiao.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- 视频部分 -->
+  <div>
+    <video width="120" height="120" controls autoplay loop muted>
+      <source src="{{ 'videos/miaomiao.mp4' | relative_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=6uZ_jKmPU_WcDuWCQhiBvIGUYhGQZc0xI2v3X2EdYEw&co=74b4e2&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+  <!-- 地图部分 -->
+  <div>
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=6uZ_jKmPU_WcDuWCQhiBvIGUYhGQZc0xI2v3X2EdYEw&co=74b4e2&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+  </div>
+</div>
