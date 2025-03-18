@@ -1,46 +1,13 @@
-# Ignore docs files
-_gh_pages
-_site
-.ruby-version
-.sass-cache
-.jekyll-cache
+# Ignore the contents of the _site directory and other cache directories
+_site/
+.sass-cache/
 
-# Numerous always-ignore extensions
-*.diff
-*.err
-*.orig
-*.log
-*.rej
-*.swo
-*.swp
-*.zip
-*.vi
-*~
+# Ignore the directory for local files during development
+local/
 
-# OS or Editor folders
-.DS_Store
-._*
-Thumbs.db
-.cache
-.project
-.settings
-.tmproj
-*.esproj
-nbproject
-*.sublime-project
-*.sublime-workspace
-.idea
+# Ignore the Gemfile that is generated
+Gemfile.lock
 
-# Komodo
-*.komodoproject
-.komodotools
-
-# grunt-html-validation
-validation-status.json
-validation-report.json
-
-# Folders to ignore
+# Ingore files created by npm
 node_modules
-
-# Ruby gems
-*.gem
+package-lock.json
