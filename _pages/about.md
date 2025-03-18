@@ -48,7 +48,7 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
-<video width="560" height="315" controls>
+<video width="560" height="315" autoplay loop muted>
   <source src="{{ 'videos/miaomiao.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
