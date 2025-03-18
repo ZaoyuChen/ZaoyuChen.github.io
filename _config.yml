@@ -35,7 +35,6 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=_qF0ascAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0003-0397-8952"
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
@@ -48,7 +47,7 @@ author:
   github           : "ZaoyuChen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
+  orcid            : "https://orcid.org/0009-0003-0397-8952"
   # Social media
   bluesky          : 
   facebook         : # Username
